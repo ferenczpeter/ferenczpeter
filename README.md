@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ferenczpeter
-- 👀 I’m interested in
-       -PLC programming,
-       -CNC technology,
-       -C/C++
+- 👀 I’m interested in PLC programming,
+CNC technology and C/C++ languages.
 
 
 <!---
